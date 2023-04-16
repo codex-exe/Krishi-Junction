@@ -45,6 +45,7 @@ To develop the proposed intelligent farming assistant system, we followed a stru
 ![accuracy](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/accuracy%20eval.jpg)
 
 - **Mobile Application:**
+
 ![app1](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/app1.png)
 ![app2](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/app2.png)
 ![app3](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/app3.png)
