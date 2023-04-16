@@ -1,6 +1,6 @@
 # Krishi-Junction
 
-### Contributers:
+### Contributors:
 - [Shivam Akhouri]
 - [Alabhya Sharma]
 - [Ritika Lakshminarayanan]
