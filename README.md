@@ -19,7 +19,7 @@ An IoT-based agriculture app that collects temperature, humidity, soil moisture,
 
 ### Methodology:
 To develop the proposed intelligent farming assistant system, we followed a structured methodology that involved the following architecture:
-[![architecture](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/architecture.png)
+![architecture](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/architecture.png)
 
 - **Sensors and Microcontrollers:** NPK sensors, pH sensors, NoIR Camera, and other sensors were used for data collection. These sensors were responsible for collecting data from the environment, and were connected to microcontrollers that processed the data and sent it for further analysis. 
 
