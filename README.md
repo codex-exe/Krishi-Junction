@@ -1,11 +1,5 @@
 # Krishi-Junction
 
-### Contributors:
-- [Shivam Akhouri]
-- [Alabhya Sharma]
-- [Ritika Lakshminarayanan]
-- [Vidhi Bhagwandas Ajbani]
-
 ### Objectives:
 - To create a real-time system that monitors plant health by collecting and assessing temperature, humidity, soil moisture, and nutrient levels.
 - To monitor and analyse soil, sensors measuring pH, nutrient levels, and other key characteristics will be installed.
@@ -50,7 +44,3 @@ To develop the proposed intelligent farming assistant system, we followed a stru
 ![app2](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/app2.png)
 ![app3](https://github.com/shivam-akhouri/Krishi-Junction/blob/master/imgs/app3.png)
 
-[Shivam Akhouri]: shivam.akhouri2020@vitstudent.ac.in
-[Alabhya Sharma]: alabhya.sharma2020@vitstudent.ac.in
-[Ritika Lakshminarayanan]: shivam.akhouri2020@vitstudent.ac.in
-[Vidhi Bhagwandas Ajbani]: vidhibhagwandas.ajbani2020@vitstudent.ac.in
