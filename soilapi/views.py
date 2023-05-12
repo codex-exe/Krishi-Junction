@@ -61,6 +61,7 @@ def crop_pred(request):
     rainfall = request.GET['rainfall']
     model = pickle.load(open('D:\hackathon\GFG\KrishiJunctionBackend\soilapi\crop_pred.pkl','rb'))
     output = model.predict([[n, p, k, temp, humid, ph, rainfall]])[0]
+    print(output)
     return JsonResponse({
         "status":"success",
         "data": output
