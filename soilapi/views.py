@@ -32,7 +32,7 @@ def npkvalue(request):
     potassium = request.GET['potassium']
     phosphorous = request.GET['phos']
     ph = request.GET['ph']
-    doc_ref = firestore_client.collection(f"npkvalue/devices/{deviceId}").document(f"timeunit")
+    doc_ref = firestore_client.collection(f"npkvalue/devices/{deviceId}").document(f"{timeunit}")
     doc_ref.set({
         "dateunit": dateunit,
         "timeunit": timeunit,
