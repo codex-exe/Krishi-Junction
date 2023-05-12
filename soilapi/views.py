@@ -4,6 +4,12 @@ import firebase_admin
 from firebase_admin import firestore
 import os
 
+import pickle
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import metrics
+
 cred = firebase_admin.credentials.Certificate("D:\hackathon\GFG\KrishiJunctionBackend\soilapi\solvingforind-firebase-adminsdk-eeo83-44ba4946bc.json")
 app = firebase_admin.initialize_app(cred)
 firestore_client = firestore.client()
@@ -44,4 +50,18 @@ def npkvalue(request):
     return JsonResponse({
         "status": "success"
     }, safe=False)
-    # return HttpResponse(f"{nitrogen} {potassium} {phosphorous} {deviceId} {timeunit} {ph}")
+
+def crop_pred(request):
+    n = request.GET['nitrogen']
+    p = request.GET['phosphorous']
+    k = request.GET['potassium']
+    temp = request.GET['temperature']
+    humid = request.GET['humidity']
+    ph = request.GET['ph']
+    rainfall = request.GET['rainfall']
+    model = pickle.load(open('D:\hackathon\GFG\KrishiJunctionBackend\soilapi\crop_pred.pkl','rb'))
+    output = model.predict([[n, p, k, temp, humid, ph, rainfall]])[0]
+    return JsonResponse({
+        "status":"success",
+        "data": output
+    }, safe=False)
