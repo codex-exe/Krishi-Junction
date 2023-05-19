@@ -166,4 +166,4 @@ def oneyearprediction(request):
     concat_df.set_index(concat_df_i, inplace=True)
     print(concat_df)
     result = concat_df.to_json(orient='records')
-    return JsonResponse(json.loads(result), safe = False)
+    return JsonResponse({"data": json.loads(result)}, safe = False)

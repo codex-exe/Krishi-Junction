@@ -20,6 +20,12 @@ FIREBASE_CONFIG = {
 firebase = pyrebase.initialize_app(FIREBASE_CONFIG)
 auth = firebase.auth()
 def chatbot(request):
+    l = {
+        "english": "en",
+        "tamil": "ta",
+        "telugu": "te",
+        "hindi": "hi",
+    }
     openai.api_key = "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"
 
     messages = [
@@ -55,7 +61,7 @@ def chatbot(request):
         reply = chat.choices[0].text.strip()
         text_to_translate = translator.translate(reply,
                                                      src= 'en',
-                                                     dest= 'hi')
+                                                     dest= l[language])
         messages.append({"role": "assistant", "content": reply})
         return JsonResponse({
             "status":"success",
