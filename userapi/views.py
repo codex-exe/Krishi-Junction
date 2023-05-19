@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import os
 import pyrebase
 import openai
+from googletrans import Translator
 
 FIREBASE_CONFIG = {
   "apiKey": "AIzaSyDkAu8EB4WwJsYRUJx-XAWE4vPWBIeJAlg",
@@ -19,7 +20,7 @@ FIREBASE_CONFIG = {
 firebase = pyrebase.initialize_app(FIREBASE_CONFIG)
 auth = firebase.auth()
 def chatbot(request):
-    openai.api_key = "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"
+    openai.api_key = "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"
 
     messages = [
         {"role": "system", "content": """Your name is "AgriBot" and you are a smart chatbot assistant for our mobile application "Krishi Junction". Our app's main goal is to help integrating precision farming techniques and deliver it as an useful insight to the farmer. Main features of our app are:
@@ -38,6 +39,8 @@ def chatbot(request):
     8. If you are not sure about the relevancy of the output you must not provide false/inaccurate information but rather provide them with the contact us or contact an expert option."""},
     ]
     input = request.GET["query"]
+    language = request.GET['lang']
+    translator = Translator()
     if input:
         messages.append({"role": "user", "content": input})
         chat = openai.Completion.create(
@@ -50,10 +53,13 @@ def chatbot(request):
             presence_penalty=0
         )
         reply = chat.choices[0].text.strip()
+        text_to_translate = translator.translate(reply,
+                                                     src= 'en',
+                                                     dest= 'hi')
         messages.append({"role": "assistant", "content": reply})
         return JsonResponse({
             "status":"success",
-            "data": reply
+            "data": text_to_translate.text
         })
 
 # Create your views here.

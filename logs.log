@@ -1,0 +1,1385 @@
+2023-05-19 21:05:12,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:05:12,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:05:12,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:05:12,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:05:18,556:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:21:18,658:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:21:18,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:21:18,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:21:18,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:21:19,206:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:22:07,456:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:22:07,456:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:22:07,456:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:22:07,456:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:22:08,193:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:27:49,551:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:27:49,551:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:27:49,551:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:27:49,551:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:27:50,150:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:28:57,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:28:57,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:28:57,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:28:57,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:28:58,077:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:30:54,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:30:54,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:30:54,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:30:54,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:30:55,395:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:31:00,143:INFO:PyCaret RegressionExperiment
+2023-05-19 21:31:00,143:INFO:Logging name: reg-default-name
+2023-05-19 21:31:00,143:INFO:ML Usecase: MLUsecase.REGRESSION
+2023-05-19 21:31:00,144:INFO:version 3.0.2
+2023-05-19 21:31:00,144:INFO:Initializing setup()
+2023-05-19 21:31:00,144:INFO:self.USI: 71c8
+2023-05-19 21:31:00,144:INFO:self._variable_keys: {'fold_groups_param', 'memory', 'X_train', 'X', 'data', '_available_plots', 'fold_shuffle_param', 'gpu_n_jobs_param', 'exp_id', 'X_test', 'USI', 'y_test', 'y_train', 'html_param', 'target_param', 'y', 'logging_param', 'transform_target_param', 'idx', 'n_jobs_param', 'exp_name_log', 'gpu_param', 'pipeline', '_ml_usecase', 'seed', 'log_plots_param', 'fold_generator'}
+2023-05-19 21:31:00,144:INFO:Checking environment
+2023-05-19 21:31:00,144:INFO:python_version: 3.10.11
+2023-05-19 21:31:00,144:INFO:python_build: ('tags/v3.10.11:7d4cc5a', 'Apr  5 2023 00:38:17')
+2023-05-19 21:31:00,144:INFO:machine: AMD64
+2023-05-19 21:31:00,211:INFO:platform: Windows-10-10.0.22621-SP0
+2023-05-19 21:31:00,223:INFO:Memory: svmem(total=8430800896, available=1225383936, percent=85.5, used=7205416960, free=1225383936)
+2023-05-19 21:31:00,223:INFO:Physical Core: 4
+2023-05-19 21:31:00,223:INFO:Logical Core: 8
+2023-05-19 21:31:00,223:INFO:Checking libraries
+2023-05-19 21:31:00,223:INFO:System:
+2023-05-19 21:31:00,223:INFO:    python: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2023-05-19 21:31:00,223:INFO:executable: D:\hackathon\GFG\env\Scripts\python.exe
+2023-05-19 21:31:00,224:INFO:   machine: Windows-10-10.0.22621-SP0
+2023-05-19 21:31:00,224:INFO:PyCaret required dependencies:
+2023-05-19 21:31:00,224:INFO:                 pip: 23.1.2
+2023-05-19 21:31:00,224:INFO:          setuptools: 67.7.2
+2023-05-19 21:31:00,224:INFO:             pycaret: 3.0.2
+2023-05-19 21:31:00,224:INFO:             IPython: 8.13.2
+2023-05-19 21:31:00,224:INFO:          ipywidgets: 8.0.6
+2023-05-19 21:31:00,224:INFO:                tqdm: 4.65.0
+2023-05-19 21:31:00,224:INFO:               numpy: 1.23.5
+2023-05-19 21:31:00,225:INFO:              pandas: 1.5.3
+2023-05-19 21:31:00,225:INFO:              jinja2: 3.1.2
+2023-05-19 21:31:00,225:INFO:               scipy: 1.10.1
+2023-05-19 21:31:00,225:INFO:              joblib: 1.2.0
+2023-05-19 21:31:00,225:INFO:             sklearn: 1.2.2
+2023-05-19 21:31:00,225:INFO:                pyod: 1.0.9
+2023-05-19 21:31:00,225:INFO:            imblearn: 0.10.1
+2023-05-19 21:31:00,225:INFO:   category_encoders: 2.6.1
+2023-05-19 21:31:00,225:INFO:            lightgbm: 3.3.5
+2023-05-19 21:31:00,225:INFO:               numba: 0.57.0
+2023-05-19 21:31:00,225:INFO:            requests: 2.28.2
+2023-05-19 21:31:00,226:INFO:          matplotlib: 3.7.1
+2023-05-19 21:31:00,226:INFO:          scikitplot: 0.3.7
+2023-05-19 21:31:00,226:INFO:         yellowbrick: 1.5
+2023-05-19 21:31:00,226:INFO:              plotly: 5.14.1
+2023-05-19 21:31:00,226:INFO:             kaleido: 0.2.1
+2023-05-19 21:31:00,226:INFO:         statsmodels: 0.14.0
+2023-05-19 21:31:00,226:INFO:              sktime: 0.17.0
+2023-05-19 21:31:00,226:INFO:               tbats: 1.1.3
+2023-05-19 21:31:00,226:INFO:            pmdarima: 2.0.3
+2023-05-19 21:31:00,227:INFO:              psutil: 5.9.5
+2023-05-19 21:31:00,227:INFO:PyCaret optional dependencies:
+2023-05-19 21:31:00,250:INFO:                shap: Not installed
+2023-05-19 21:31:00,250:INFO:           interpret: Not installed
+2023-05-19 21:31:00,250:INFO:                umap: Not installed
+2023-05-19 21:31:00,250:INFO:    pandas_profiling: Not installed
+2023-05-19 21:31:00,251:INFO:  explainerdashboard: Not installed
+2023-05-19 21:31:00,251:INFO:             autoviz: Not installed
+2023-05-19 21:31:00,251:INFO:           fairlearn: Not installed
+2023-05-19 21:31:00,251:INFO:             xgboost: Not installed
+2023-05-19 21:31:00,251:INFO:            catboost: Not installed
+2023-05-19 21:31:00,251:INFO:              kmodes: Not installed
+2023-05-19 21:31:00,251:INFO:             mlxtend: Not installed
+2023-05-19 21:31:00,251:INFO:       statsforecast: Not installed
+2023-05-19 21:31:00,251:INFO:        tune_sklearn: Not installed
+2023-05-19 21:31:00,251:INFO:                 ray: Not installed
+2023-05-19 21:31:00,251:INFO:            hyperopt: Not installed
+2023-05-19 21:31:00,251:INFO:              optuna: Not installed
+2023-05-19 21:31:00,251:INFO:               skopt: Not installed
+2023-05-19 21:31:00,252:INFO:              mlflow: Not installed
+2023-05-19 21:31:00,252:INFO:              gradio: Not installed
+2023-05-19 21:31:00,252:INFO:             fastapi: Not installed
+2023-05-19 21:31:00,252:INFO:             uvicorn: Not installed
+2023-05-19 21:31:00,252:INFO:              m2cgen: Not installed
+2023-05-19 21:31:00,252:INFO:           evidently: Not installed
+2023-05-19 21:31:00,252:INFO:               fugue: Not installed
+2023-05-19 21:31:00,252:INFO:           streamlit: Not installed
+2023-05-19 21:31:00,253:INFO:             prophet: Not installed
+2023-05-19 21:31:00,253:INFO:None
+2023-05-19 21:31:00,253:INFO:Set up data.
+2023-05-19 21:31:00,287:INFO:Set up train/test split.
+2023-05-19 21:31:00,287:INFO:Set up data.
+2023-05-19 21:31:00,291:INFO:Set up index.
+2023-05-19 21:31:00,291:INFO:Set up folding strategy.
+2023-05-19 21:31:00,291:INFO:Assigning column types.
+2023-05-19 21:31:00,305:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2023-05-19 21:31:00,305:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,315:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,320:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,432:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,483:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,484:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:00,846:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:00,846:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,851:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,856:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,920:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,964:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,965:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:00,965:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:00,966:INFO:Engine successfully changes for model 'lasso' to 'sklearn'.
+2023-05-19 21:31:00,970:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 21:31:00,976:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,037:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,087:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,088:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,088:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,095:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,101:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,167:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,226:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,227:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,227:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,228:INFO:Engine successfully changes for model 'ridge' to 'sklearn'.
+2023-05-19 21:31:01,241:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,308:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,359:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,359:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,360:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,371:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,440:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,496:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,497:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,497:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,497:INFO:Engine successfully changes for model 'en' to 'sklearn'.
+2023-05-19 21:31:01,583:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,634:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,634:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,635:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,721:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,767:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,768:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,768:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,769:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2023-05-19 21:31:01,843:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:01,893:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,893:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:01,980:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 21:31:02,029:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:02,030:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:02,030:INFO:Engine successfully changes for model 'svm' to 'sklearn'.
+2023-05-19 21:31:02,150:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:02,150:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:02,274:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:02,274:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:02,278:INFO:Preparing preprocessing pipeline...
+2023-05-19 21:31:02,278:INFO:Set up target transformation.
+2023-05-19 21:31:02,278:INFO:Set up simple imputation.
+2023-05-19 21:31:02,546:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2023-05-19 21:31:02,546:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-19 21:31:03,088:INFO:Finished creating preprocessing pipeline.
+2023-05-19 21:31:03,094:INFO:Pipeline: Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))])
+2023-05-19 21:31:03,094:INFO:Creating final display dataframe.
+2023-05-19 21:31:03,194:INFO:Setup _display_container:                     Description             Value
+0                    Session id               123
+1                        Target          Nitrogen
+2                   Target type        Regression
+3           Original data shape           (96, 4)
+4        Transformed data shape           (96, 4)
+5   Transformed train set shape           (84, 4)
+6    Transformed test set shape           (12, 4)
+7              Numeric features                 2
+8                    Preprocess              True
+9               Imputation type            simple
+10           Numeric imputation              mean
+11       Categorical imputation              mode
+12             Transform target              True
+13      Transform target method       yeo-johnson
+14               Fold Generator   TimeSeriesSplit
+15                  Fold Number                 3
+16                     CPU Jobs                -1
+17                      Use GPU             False
+18               Log Experiment             False
+19              Experiment Name  reg-default-name
+20                          USI              71c8
+2023-05-19 21:31:03,324:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:03,324:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:03,444:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:03,444:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-05-19 21:31:03,446:INFO:setup() successfully completed in 3.3s...............
+2023-05-19 21:31:03,446:INFO:Initializing create_model()
+2023-05-19 21:31:03,446:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000111D69E8B50>, estimator=xgboost, fold=None, round=4, cross_validation=True, predict=True, fit_kwargs=None, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2023-05-19 21:31:03,446:INFO:Checking exceptions
+2023-05-19 21:35:20,666:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:35:20,666:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:35:20,666:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:35:20,666:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:35:25,577:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:52:49,768:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:52:49,784:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:52:49,784:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:52:49,784:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:53:04,317:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 21:56:35,887:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:56:35,887:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:56:35,887:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:56:35,887:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 21:56:36,578:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 22:00:05,693:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:00:05,693:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:00:05,693:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:00:05,693:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:00:10,740:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 22:00:25,695:INFO:PyCaret RegressionExperiment
+2023-05-19 22:00:25,695:INFO:Logging name: reg-default-name
+2023-05-19 22:00:25,695:INFO:ML Usecase: MLUsecase.REGRESSION
+2023-05-19 22:00:25,695:INFO:version 3.0.2
+2023-05-19 22:00:25,695:INFO:Initializing setup()
+2023-05-19 22:00:25,696:INFO:self.USI: 3cc5
+2023-05-19 22:00:25,696:INFO:self._variable_keys: {'gpu_n_jobs_param', 'X_test', 'y_test', 'n_jobs_param', '_ml_usecase', 'data', 'fold_groups_param', 'y', 'transform_target_param', 'fold_shuffle_param', 'pipeline', 'X_train', '_available_plots', 'seed', 'idx', 'gpu_param', 'fold_generator', 'exp_name_log', 'logging_param', 'memory', 'USI', 'html_param', 'target_param', 'y_train', 'exp_id', 'X', 'log_plots_param'}
+2023-05-19 22:00:25,696:INFO:Checking environment
+2023-05-19 22:00:25,696:INFO:python_version: 3.10.11
+2023-05-19 22:00:25,696:INFO:python_build: ('tags/v3.10.11:7d4cc5a', 'Apr  5 2023 00:38:17')
+2023-05-19 22:00:25,696:INFO:machine: AMD64
+2023-05-19 22:00:25,757:INFO:platform: Windows-10-10.0.22621-SP0
+2023-05-19 22:00:25,760:INFO:Memory: svmem(total=8430800896, available=1187815424, percent=85.9, used=7242985472, free=1187815424)
+2023-05-19 22:00:25,760:INFO:Physical Core: 4
+2023-05-19 22:00:25,760:INFO:Logical Core: 8
+2023-05-19 22:00:25,760:INFO:Checking libraries
+2023-05-19 22:00:25,760:INFO:System:
+2023-05-19 22:00:25,760:INFO:    python: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2023-05-19 22:00:25,761:INFO:executable: D:\hackathon\GFG\env\Scripts\python.exe
+2023-05-19 22:00:25,761:INFO:   machine: Windows-10-10.0.22621-SP0
+2023-05-19 22:00:25,761:INFO:PyCaret required dependencies:
+2023-05-19 22:00:25,761:INFO:                 pip: 23.1.2
+2023-05-19 22:00:25,761:INFO:          setuptools: 67.7.2
+2023-05-19 22:00:25,761:INFO:             pycaret: 3.0.2
+2023-05-19 22:00:25,761:INFO:             IPython: 7.34.0
+2023-05-19 22:00:25,761:INFO:          ipywidgets: 7.7.5
+2023-05-19 22:00:25,761:INFO:                tqdm: 4.64.1
+2023-05-19 22:00:25,761:INFO:               numpy: 1.23.0
+2023-05-19 22:00:25,761:INFO:              pandas: 1.5.3
+2023-05-19 22:00:25,761:INFO:              jinja2: 3.1.2
+2023-05-19 22:00:25,761:INFO:               scipy: 1.9.3
+2023-05-19 22:00:25,761:INFO:              joblib: 1.2.0
+2023-05-19 22:00:25,761:INFO:             sklearn: 1.2.2
+2023-05-19 22:00:25,761:INFO:                pyod: 1.0.9
+2023-05-19 22:00:25,761:INFO:            imblearn: 0.10.1
+2023-05-19 22:00:25,761:INFO:   category_encoders: 2.6.1
+2023-05-19 22:00:25,761:INFO:            lightgbm: 3.3.5
+2023-05-19 22:00:25,761:INFO:               numba: 0.57.0
+2023-05-19 22:00:25,762:INFO:            requests: 2.28.2
+2023-05-19 22:00:25,762:INFO:          matplotlib: 3.6.3
+2023-05-19 22:00:25,762:INFO:          scikitplot: 0.3.7
+2023-05-19 22:00:25,762:INFO:         yellowbrick: 1.5
+2023-05-19 22:00:25,762:INFO:              plotly: 5.14.1
+2023-05-19 22:00:25,762:INFO:             kaleido: 0.2.1
+2023-05-19 22:00:25,762:INFO:         statsmodels: 0.13.5
+2023-05-19 22:00:25,762:INFO:              sktime: 0.17.0
+2023-05-19 22:00:25,762:INFO:               tbats: 1.1.3
+2023-05-19 22:00:25,762:INFO:            pmdarima: 2.0.3
+2023-05-19 22:00:25,762:INFO:              psutil: 5.9.5
+2023-05-19 22:00:25,762:INFO:PyCaret optional dependencies:
+2023-05-19 22:00:35,498:INFO:                shap: 0.41.0
+2023-05-19 22:00:35,498:INFO:           interpret: 0.4.1
+2023-05-19 22:00:35,498:INFO:                umap: 0.5.3
+2023-05-19 22:00:35,498:INFO:    pandas_profiling: 4.1.2
+2023-05-19 22:00:35,498:INFO:  explainerdashboard: 0.4.2.2
+2023-05-19 22:00:35,498:INFO:             autoviz: 0.1.604
+2023-05-19 22:00:35,498:INFO:           fairlearn: 0.7.0
+2023-05-19 22:00:35,499:INFO:             xgboost: 1.7.5
+2023-05-19 22:00:35,499:INFO:            catboost: 1.2
+2023-05-19 22:00:35,499:INFO:              kmodes: 0.12.2
+2023-05-19 22:00:35,499:INFO:             mlxtend: 0.22.0
+2023-05-19 22:00:35,499:INFO:       statsforecast: 1.5.0
+2023-05-19 22:00:35,499:INFO:        tune_sklearn: 0.4.5
+2023-05-19 22:00:35,499:INFO:                 ray: 2.4.0
+2023-05-19 22:00:35,499:INFO:            hyperopt: 0.2.7
+2023-05-19 22:00:35,499:INFO:              optuna: 3.1.1
+2023-05-19 22:00:35,499:INFO:               skopt: 0.9.0
+2023-05-19 22:00:35,499:INFO:              mlflow: 1.30.1
+2023-05-19 22:00:35,499:INFO:              gradio: 3.31.0
+2023-05-19 22:00:35,499:INFO:             fastapi: 0.95.2
+2023-05-19 22:00:35,499:INFO:             uvicorn: 0.22.0
+2023-05-19 22:00:35,499:INFO:              m2cgen: 0.10.0
+2023-05-19 22:00:35,499:INFO:           evidently: 0.2.8
+2023-05-19 22:00:35,499:INFO:               fugue: 0.8.3
+2023-05-19 22:00:35,499:INFO:           streamlit: Not installed
+2023-05-19 22:00:35,499:INFO:             prophet: Not installed
+2023-05-19 22:00:35,499:INFO:None
+2023-05-19 22:00:35,499:INFO:Set up data.
+2023-05-19 22:00:35,530:INFO:Set up train/test split.
+2023-05-19 22:00:35,530:INFO:Set up data.
+2023-05-19 22:00:35,534:INFO:Set up index.
+2023-05-19 22:00:35,534:INFO:Set up folding strategy.
+2023-05-19 22:00:35,534:INFO:Assigning column types.
+2023-05-19 22:00:35,566:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2023-05-19 22:00:35,566:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-05-19 22:00:35,582:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:00:35,586:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:00:35,673:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:35,716:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:35,717:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:39,476:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,029:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,033:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,037:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,095:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,145:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,146:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,149:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,149:INFO:Engine successfully changes for model 'lasso' to 'sklearn'.
+2023-05-19 22:00:41,154:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,160:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,224:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,266:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,267:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,270:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,274:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,279:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,346:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,389:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,390:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,392:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,393:INFO:Engine successfully changes for model 'ridge' to 'sklearn'.
+2023-05-19 22:00:41,403:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,464:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,511:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,512:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,515:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,525:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,587:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,633:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,634:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,636:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,637:INFO:Engine successfully changes for model 'en' to 'sklearn'.
+2023-05-19 22:00:41,707:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,752:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,753:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,755:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,822:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,870:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,870:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,873:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:41,873:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2023-05-19 22:00:41,941:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:41,987:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:41,990:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:42,063:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:00:42,110:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:42,113:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:42,114:INFO:Engine successfully changes for model 'svm' to 'sklearn'.
+2023-05-19 22:00:42,243:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:42,246:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:42,361:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:42,364:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:42,789:INFO:Preparing preprocessing pipeline...
+2023-05-19 22:00:42,789:INFO:Set up target transformation.
+2023-05-19 22:00:42,789:INFO:Set up simple imputation.
+2023-05-19 22:00:42,974:INFO:Finished creating preprocessing pipeline.
+2023-05-19 22:00:43,024:INFO:Pipeline: Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))])
+2023-05-19 22:00:43,024:INFO:Creating final display dataframe.
+2023-05-19 22:00:43,162:INFO:Setup _display_container:                     Description             Value
+0                    Session id               123
+1                        Target          Nitrogen
+2                   Target type        Regression
+3           Original data shape           (96, 4)
+4        Transformed data shape           (96, 4)
+5   Transformed train set shape           (84, 4)
+6    Transformed test set shape           (12, 4)
+7              Numeric features                 2
+8                    Preprocess              True
+9               Imputation type            simple
+10           Numeric imputation              mean
+11       Categorical imputation              mode
+12             Transform target              True
+13      Transform target method       yeo-johnson
+14               Fold Generator   TimeSeriesSplit
+15                  Fold Number                 3
+16                     CPU Jobs                -1
+17                      Use GPU             False
+18               Log Experiment             False
+19              Experiment Name  reg-default-name
+20                          USI              3cc5
+2023-05-19 22:00:43,291:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:43,294:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:43,417:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:00:43,420:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:00:43,421:INFO:setup() successfully completed in 17.73s...............
+2023-05-19 22:00:43,421:INFO:Initializing create_model()
+2023-05-19 22:00:43,422:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>, estimator=xgboost, fold=None, round=4, cross_validation=True, predict=True, fit_kwargs=None, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2023-05-19 22:00:43,422:INFO:Checking exceptions
+2023-05-19 22:00:43,427:INFO:Importing libraries
+2023-05-19 22:00:43,427:INFO:Copying training dataset
+2023-05-19 22:00:43,431:INFO:Defining folds
+2023-05-19 22:00:43,431:INFO:Declaring metric variables
+2023-05-19 22:00:43,431:INFO:Importing untrained model
+2023-05-19 22:00:43,432:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:00:43,432:INFO:Starting cross validation
+2023-05-19 22:00:43,943:INFO:Cross validating with TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), n_jobs=-1
+2023-05-19 22:00:51,604:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2023-05-19 22:00:51,604:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-19 22:00:51,604:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-19 22:00:51,619:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2023-05-19 22:00:53,379:INFO:Calculating mean and std
+2023-05-19 22:00:53,395:INFO:Creating metrics dataframe
+2023-05-19 22:00:53,395:INFO:Finalizing model
+2023-05-19 22:00:54,415:INFO:Uploading results into container
+2023-05-19 22:00:54,415:INFO:Uploading model into container now
+2023-05-19 22:00:54,443:INFO:_master_model_container: 1
+2023-05-19 22:00:54,444:INFO:_display_container: 2
+2023-05-19 22:00:54,447:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:00:54,448:INFO:create_model() successfully completed......................................
+2023-05-19 22:00:54,617:INFO:Initializing tune_model()
+2023-05-19 22:00:54,617:INFO:tune_model(estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=None, round=4, n_iter=10, custom_grid=None, optimize=MAE, custom_scorer=None, search_library=scikit-learn, search_algorithm=None, early_stopping=False, early_stopping_max_iters=10, choose_better=True, fit_kwargs=None, groups=None, return_tuner=False, verbose=True, tuner_verbose=True, return_train_score=False, kwargs={}, self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>)
+2023-05-19 22:00:54,617:INFO:Checking exceptions
+2023-05-19 22:00:54,617:INFO:Copying training dataset
+2023-05-19 22:00:54,617:INFO:Checking base model
+2023-05-19 22:00:54,617:INFO:Base model : Extreme Gradient Boosting
+2023-05-19 22:00:54,617:INFO:Declaring metric variables
+2023-05-19 22:00:54,617:INFO:Defining Hyperparameters
+2023-05-19 22:00:54,769:INFO:Tuning with n_jobs=-1
+2023-05-19 22:00:54,769:INFO:Initializing RandomizedSearchCV
+2023-05-19 22:00:55,670:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2023-05-19 22:00:55,685:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2023-05-19 22:00:55,873:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-19 22:00:55,873:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-19 22:01:04,529:INFO:best_params: {'actual_estimator__subsample': 0.2, 'actual_estimator__scale_pos_weight': 37.7, 'actual_estimator__reg_lambda': 0.2, 'actual_estimator__reg_alpha': 0.0001, 'actual_estimator__n_estimators': 220, 'actual_estimator__min_child_weight': 4, 'actual_estimator__max_depth': 10, 'actual_estimator__learning_rate': 0.05, 'actual_estimator__colsample_bytree': 0.9}
+2023-05-19 22:01:04,529:INFO:Hyperparameter search completed
+2023-05-19 22:01:04,529:INFO:SubProcess create_model() called ==================================
+2023-05-19 22:01:04,529:INFO:Initializing create_model()
+2023-05-19 22:01:04,529:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000174D3847D60>, model_only=True, return_train_score=False, kwargs={'subsample': 0.2, 'scale_pos_weight': 37.7, 'reg_lambda': 0.2, 'reg_alpha': 0.0001, 'n_estimators': 220, 'min_child_weight': 4, 'max_depth': 10, 'learning_rate': 0.05, 'colsample_bytree': 0.9})
+2023-05-19 22:01:04,529:INFO:Checking exceptions
+2023-05-19 22:01:04,529:INFO:Importing libraries
+2023-05-19 22:01:04,529:INFO:Copying training dataset
+2023-05-19 22:01:04,547:INFO:Defining folds
+2023-05-19 22:01:04,547:INFO:Declaring metric variables
+2023-05-19 22:01:04,547:INFO:Importing untrained model
+2023-05-19 22:01:04,547:INFO:Declaring custom model
+2023-05-19 22:01:04,549:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:01:04,549:INFO:Starting cross validation
+2023-05-19 22:01:04,550:INFO:Cross validating with TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), n_jobs=-1
+2023-05-19 22:01:04,739:INFO:Calculating mean and std
+2023-05-19 22:01:04,740:INFO:Creating metrics dataframe
+2023-05-19 22:01:04,742:INFO:Finalizing model
+2023-05-19 22:01:05,372:INFO:Uploading results into container
+2023-05-19 22:01:05,374:INFO:Uploading model into container now
+2023-05-19 22:01:05,375:INFO:_master_model_container: 2
+2023-05-19 22:01:05,375:INFO:_display_container: 3
+2023-05-19 22:01:05,379:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:01:05,379:INFO:create_model() successfully completed......................................
+2023-05-19 22:01:05,543:INFO:SubProcess create_model() end ==================================
+2023-05-19 22:01:05,543:INFO:choose_better activated
+2023-05-19 22:01:05,544:INFO:SubProcess create_model() called ==================================
+2023-05-19 22:01:05,545:INFO:Initializing create_model()
+2023-05-19 22:01:05,545:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2023-05-19 22:01:05,545:INFO:Checking exceptions
+2023-05-19 22:01:05,546:INFO:Importing libraries
+2023-05-19 22:01:05,546:INFO:Copying training dataset
+2023-05-19 22:01:05,551:INFO:Defining folds
+2023-05-19 22:01:05,551:INFO:Declaring metric variables
+2023-05-19 22:01:05,551:INFO:Importing untrained model
+2023-05-19 22:01:05,551:INFO:Declaring custom model
+2023-05-19 22:01:05,553:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:01:05,553:INFO:Starting cross validation
+2023-05-19 22:01:05,554:INFO:Cross validating with TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), n_jobs=-1
+2023-05-19 22:01:05,823:INFO:Calculating mean and std
+2023-05-19 22:01:05,824:INFO:Creating metrics dataframe
+2023-05-19 22:01:05,827:INFO:Finalizing model
+2023-05-19 22:01:05,951:INFO:Uploading results into container
+2023-05-19 22:01:05,954:INFO:Uploading model into container now
+2023-05-19 22:01:05,955:INFO:_master_model_container: 3
+2023-05-19 22:01:05,955:INFO:_display_container: 4
+2023-05-19 22:01:05,958:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:01:05,959:INFO:create_model() successfully completed......................................
+2023-05-19 22:01:06,109:INFO:SubProcess create_model() end ==================================
+2023-05-19 22:01:06,111:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...) result for MAE is 78.7038
+2023-05-19 22:01:06,112:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...) result for MAE is 69.7708
+2023-05-19 22:01:06,113:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...) is best model
+2023-05-19 22:01:06,113:INFO:choose_better completed
+2023-05-19 22:01:06,132:INFO:_master_model_container: 3
+2023-05-19 22:01:06,134:INFO:_display_container: 3
+2023-05-19 22:01:06,137:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:01:06,137:INFO:tune_model() successfully completed......................................
+2023-05-19 22:01:06,550:INFO:Initializing predict_model()
+2023-05-19 22:01:06,551:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000174D24AF400>)
+2023-05-19 22:01:06,551:INFO:Checking exceptions
+2023-05-19 22:01:06,551:INFO:Preloading libraries
+2023-05-19 22:01:06,551:INFO:Set up data.
+2023-05-19 22:01:06,559:INFO:Set up index.
+2023-05-19 22:01:06,888:INFO:Initializing finalize_model()
+2023-05-19 22:01:06,888:INFO:finalize_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fit_kwargs=None, groups=None, model_only=False, experiment_custom_tags=None)
+2023-05-19 22:01:06,891:INFO:Finalizing XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:01:06,902:INFO:Initializing create_model()
+2023-05-19 22:01:06,902:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=None, round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=False, metrics=None, display=None, model_only=False, return_train_score=False, kwargs={})
+2023-05-19 22:01:06,902:INFO:Checking exceptions
+2023-05-19 22:01:06,904:INFO:Importing libraries
+2023-05-19 22:01:06,904:INFO:Copying training dataset
+2023-05-19 22:01:06,904:INFO:Defining folds
+2023-05-19 22:01:06,904:INFO:Declaring metric variables
+2023-05-19 22:01:06,905:INFO:Importing untrained model
+2023-05-19 22:01:06,905:INFO:Declaring custom model
+2023-05-19 22:01:06,907:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:01:06,908:INFO:Cross validation set to False
+2023-05-19 22:01:06,908:INFO:Fitting Model
+2023-05-19 22:01:06,916:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2023-05-19 22:01:06,917:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-19 22:01:07,279:INFO:Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerW...
+                              feature_types=None, gamma=None, gpu_id=None,
+                              grow_policy=None, importance_type=None,
+                              interaction_constraints=None, learning_rate=0.05,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=10, max_leaves=None, min_child_weight=4,
+                              missing=nan, monotone_constraints=None,
+                              n_estimators=220, n_jobs=-1,
+                              num_parallel_tree=None, predictor=None,
+                              random_state=123, ...))])
+2023-05-19 22:01:07,279:INFO:create_model() successfully completed......................................
+2023-05-19 22:01:07,439:INFO:_master_model_container: 3
+2023-05-19 22:01:07,439:INFO:_display_container: 4
+2023-05-19 22:01:07,452:INFO:Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerW...
+                              feature_types=None, gamma=None, gpu_id=None,
+                              grow_policy=None, importance_type=None,
+                              interaction_constraints=None, learning_rate=0.05,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=10, max_leaves=None, min_child_weight=4,
+                              missing=nan, monotone_constraints=None,
+                              n_estimators=220, n_jobs=-1,
+                              num_parallel_tree=None, predictor=None,
+                              random_state=123, ...))])
+2023-05-19 22:01:07,452:INFO:finalize_model() successfully completed......................................
+2023-05-19 22:01:07,600:INFO:Initializing predict_model()
+2023-05-19 22:01:08,103:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000174D0F8E740>, estimator=Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerW...
+                              feature_types=None, gamma=None, gpu_id=None,
+                              grow_policy=None, importance_type=None,
+                              interaction_constraints=None, learning_rate=0.05,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=10, max_leaves=None, min_child_weight=4,
+                              missing=nan, monotone_constraints=None,
+                              n_estimators=220, n_jobs=-1,
+                              num_parallel_tree=None, predictor=None,
+                              random_state=123, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000174D304D120>)
+2023-05-19 22:01:08,104:INFO:Checking exceptions
+2023-05-19 22:01:08,104:INFO:Preloading libraries
+2023-05-19 22:01:08,105:INFO:Set up data.
+2023-05-19 22:01:08,113:INFO:Set up index.
+2023-05-19 22:01:40,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:01:40,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:01:40,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:01:40,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-19 22:01:40,932:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-19 22:01:42,018:INFO:PyCaret RegressionExperiment
+2023-05-19 22:01:42,018:INFO:Logging name: reg-default-name
+2023-05-19 22:01:42,018:INFO:ML Usecase: MLUsecase.REGRESSION
+2023-05-19 22:01:42,019:INFO:version 3.0.2
+2023-05-19 22:01:42,019:INFO:Initializing setup()
+2023-05-19 22:01:42,019:INFO:self.USI: 1f02
+2023-05-19 22:01:42,019:INFO:self._variable_keys: {'seed', 'logging_param', 'USI', 'X_train', 'exp_name_log', 'exp_id', 'y_train', 'idx', 'log_plots_param', 'html_param', 'X', 'gpu_param', 'pipeline', 'fold_shuffle_param', '_ml_usecase', 'y', 'target_param', 'X_test', 'memory', 'y_test', 'fold_generator', 'data', '_available_plots', 'n_jobs_param', 'gpu_n_jobs_param', 'fold_groups_param', 'transform_target_param'}
+2023-05-19 22:01:42,020:INFO:Checking environment
+2023-05-19 22:01:42,020:INFO:python_version: 3.10.11
+2023-05-19 22:01:42,020:INFO:python_build: ('tags/v3.10.11:7d4cc5a', 'Apr  5 2023 00:38:17')
+2023-05-19 22:01:42,021:INFO:machine: AMD64
+2023-05-19 22:01:42,121:INFO:platform: Windows-10-10.0.22621-SP0
+2023-05-19 22:01:42,126:INFO:Memory: svmem(total=8430800896, available=1426616320, percent=83.1, used=7004184576, free=1426616320)
+2023-05-19 22:01:42,126:INFO:Physical Core: 4
+2023-05-19 22:01:42,127:INFO:Logical Core: 8
+2023-05-19 22:01:42,127:INFO:Checking libraries
+2023-05-19 22:01:42,127:INFO:System:
+2023-05-19 22:01:42,127:INFO:    python: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2023-05-19 22:01:42,127:INFO:executable: D:\hackathon\GFG\env\Scripts\python.exe
+2023-05-19 22:01:42,128:INFO:   machine: Windows-10-10.0.22621-SP0
+2023-05-19 22:01:42,128:INFO:PyCaret required dependencies:
+2023-05-19 22:01:42,128:INFO:                 pip: 23.1.2
+2023-05-19 22:01:42,128:INFO:          setuptools: 67.7.2
+2023-05-19 22:01:42,128:INFO:             pycaret: 3.0.2
+2023-05-19 22:01:42,128:INFO:             IPython: 7.34.0
+2023-05-19 22:01:42,129:INFO:          ipywidgets: 7.7.5
+2023-05-19 22:01:42,129:INFO:                tqdm: 4.64.1
+2023-05-19 22:01:42,129:INFO:               numpy: 1.23.0
+2023-05-19 22:01:42,129:INFO:              pandas: 1.5.3
+2023-05-19 22:01:42,129:INFO:              jinja2: 3.1.2
+2023-05-19 22:01:42,129:INFO:               scipy: 1.9.3
+2023-05-19 22:01:42,130:INFO:              joblib: 1.2.0
+2023-05-19 22:01:42,130:INFO:             sklearn: 1.2.2
+2023-05-19 22:01:42,130:INFO:                pyod: 1.0.9
+2023-05-19 22:01:42,130:INFO:            imblearn: 0.10.1
+2023-05-19 22:01:42,130:INFO:   category_encoders: 2.6.1
+2023-05-19 22:01:42,130:INFO:            lightgbm: 3.3.5
+2023-05-19 22:01:42,131:INFO:               numba: 0.57.0
+2023-05-19 22:01:42,131:INFO:            requests: 2.28.2
+2023-05-19 22:01:42,131:INFO:          matplotlib: 3.6.3
+2023-05-19 22:01:42,131:INFO:          scikitplot: 0.3.7
+2023-05-19 22:01:42,131:INFO:         yellowbrick: 1.5
+2023-05-19 22:01:42,131:INFO:              plotly: 5.14.1
+2023-05-19 22:01:42,132:INFO:             kaleido: 0.2.1
+2023-05-19 22:01:42,132:INFO:         statsmodels: 0.13.5
+2023-05-19 22:01:42,132:INFO:              sktime: 0.17.0
+2023-05-19 22:01:42,132:INFO:               tbats: 1.1.3
+2023-05-19 22:01:42,132:INFO:            pmdarima: 2.0.3
+2023-05-19 22:01:42,133:INFO:              psutil: 5.9.5
+2023-05-19 22:01:42,133:INFO:PyCaret optional dependencies:
+2023-05-19 22:01:44,058:INFO:                shap: 0.41.0
+2023-05-19 22:01:44,059:INFO:           interpret: 0.4.1
+2023-05-19 22:01:44,059:INFO:                umap: 0.5.3
+2023-05-19 22:01:44,059:INFO:    pandas_profiling: 4.1.2
+2023-05-19 22:01:44,059:INFO:  explainerdashboard: 0.4.2.2
+2023-05-19 22:01:44,060:INFO:             autoviz: 0.1.604
+2023-05-19 22:01:44,060:INFO:           fairlearn: 0.7.0
+2023-05-19 22:01:44,060:INFO:             xgboost: 1.7.5
+2023-05-19 22:01:44,060:INFO:            catboost: 1.2
+2023-05-19 22:01:44,060:INFO:              kmodes: 0.12.2
+2023-05-19 22:01:44,061:INFO:             mlxtend: 0.22.0
+2023-05-19 22:01:44,061:INFO:       statsforecast: 1.5.0
+2023-05-19 22:01:44,061:INFO:        tune_sklearn: 0.4.5
+2023-05-19 22:01:44,061:INFO:                 ray: 2.4.0
+2023-05-19 22:01:44,061:INFO:            hyperopt: 0.2.7
+2023-05-19 22:01:44,062:INFO:              optuna: 3.1.1
+2023-05-19 22:01:44,062:INFO:               skopt: 0.9.0
+2023-05-19 22:01:44,062:INFO:              mlflow: 1.30.1
+2023-05-19 22:01:44,062:INFO:              gradio: 3.31.0
+2023-05-19 22:01:44,063:INFO:             fastapi: 0.95.2
+2023-05-19 22:01:44,063:INFO:             uvicorn: 0.22.0
+2023-05-19 22:01:44,063:INFO:              m2cgen: 0.10.0
+2023-05-19 22:01:44,063:INFO:           evidently: 0.2.8
+2023-05-19 22:01:44,064:INFO:               fugue: 0.8.3
+2023-05-19 22:01:44,064:INFO:           streamlit: Not installed
+2023-05-19 22:01:44,064:INFO:             prophet: Not installed
+2023-05-19 22:01:44,064:INFO:None
+2023-05-19 22:01:44,064:INFO:Set up data.
+2023-05-19 22:01:44,077:INFO:Set up train/test split.
+2023-05-19 22:01:44,077:INFO:Set up data.
+2023-05-19 22:01:44,095:INFO:Set up index.
+2023-05-19 22:01:44,095:INFO:Set up folding strategy.
+2023-05-19 22:01:44,097:INFO:Assigning column types.
+2023-05-19 22:01:44,124:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2023-05-19 22:01:44,125:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-05-19 22:01:44,174:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:01:44,192:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:01:44,331:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:44,433:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:44,437:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:44,951:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:44,990:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-05-19 22:01:44,997:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,004:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,082:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,138:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,139:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:45,142:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:45,142:INFO:Engine successfully changes for model 'lasso' to 'sklearn'.
+2023-05-19 22:01:45,150:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,157:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,223:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,279:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,280:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:45,283:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:45,289:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,294:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,361:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,411:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,412:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:45,416:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:45,417:INFO:Engine successfully changes for model 'ridge' to 'sklearn'.
+2023-05-19 22:01:45,430:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,509:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,576:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,577:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:45,581:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:45,595:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,667:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,720:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,721:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:45,723:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:45,724:INFO:Engine successfully changes for model 'en' to 'sklearn'.
+2023-05-19 22:01:45,797:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,853:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:45,854:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:45,856:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:45,944:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:46,003:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-05-19 22:01:46,003:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:46,006:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:46,007:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2023-05-19 22:01:46,087:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:46,157:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:46,161:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:46,254:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-05-19 22:01:46,320:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:46,324:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:46,325:INFO:Engine successfully changes for model 'svm' to 'sklearn'.
+2023-05-19 22:01:46,456:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:46,458:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:46,590:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:46,594:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:46,598:INFO:Preparing preprocessing pipeline...
+2023-05-19 22:01:46,598:INFO:Set up target transformation.
+2023-05-19 22:01:46,598:INFO:Set up simple imputation.
+2023-05-19 22:01:46,639:INFO:Finished creating preprocessing pipeline.
+2023-05-19 22:01:46,650:INFO:Pipeline: Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))])
+2023-05-19 22:01:46,651:INFO:Creating final display dataframe.
+2023-05-19 22:01:46,782:INFO:Setup _display_container:                     Description             Value
+0                    Session id               123
+1                        Target          Nitrogen
+2                   Target type        Regression
+3           Original data shape           (96, 4)
+4        Transformed data shape           (96, 4)
+5   Transformed train set shape           (84, 4)
+6    Transformed test set shape           (12, 4)
+7              Numeric features                 2
+8                    Preprocess              True
+9               Imputation type            simple
+10           Numeric imputation              mean
+11       Categorical imputation              mode
+12             Transform target              True
+13      Transform target method       yeo-johnson
+14               Fold Generator   TimeSeriesSplit
+15                  Fold Number                 3
+16                     CPU Jobs                -1
+17                      Use GPU             False
+18               Log Experiment             False
+19              Experiment Name  reg-default-name
+20                          USI              1f02
+2023-05-19 22:01:46,952:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:46,961:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:47,106:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-05-19 22:01:47,181:INFO:Soft dependency imported: catboost: 1.2
+2023-05-19 22:01:47,182:INFO:setup() successfully completed in 5.24s...............
+2023-05-19 22:01:47,182:INFO:Initializing create_model()
+2023-05-19 22:01:47,182:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>, estimator=xgboost, fold=None, round=4, cross_validation=True, predict=True, fit_kwargs=None, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2023-05-19 22:01:47,183:INFO:Checking exceptions
+2023-05-19 22:01:47,185:INFO:Importing libraries
+2023-05-19 22:01:47,185:INFO:Copying training dataset
+2023-05-19 22:01:47,188:INFO:Defining folds
+2023-05-19 22:01:47,188:INFO:Declaring metric variables
+2023-05-19 22:01:47,189:INFO:Importing untrained model
+2023-05-19 22:01:47,190:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:01:47,190:INFO:Starting cross validation
+2023-05-19 22:01:47,195:INFO:Cross validating with TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), n_jobs=-1
+2023-05-19 22:01:55,227:INFO:Calculating mean and std
+2023-05-19 22:01:55,227:INFO:Creating metrics dataframe
+2023-05-19 22:01:55,227:INFO:Finalizing model
+2023-05-19 22:01:55,496:INFO:Uploading results into container
+2023-05-19 22:01:55,496:INFO:Uploading model into container now
+2023-05-19 22:01:55,529:INFO:_master_model_container: 1
+2023-05-19 22:01:55,529:INFO:_display_container: 2
+2023-05-19 22:01:55,532:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:01:55,533:INFO:create_model() successfully completed......................................
+2023-05-19 22:01:55,702:INFO:Initializing tune_model()
+2023-05-19 22:01:55,702:INFO:tune_model(estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=None, round=4, n_iter=10, custom_grid=None, optimize=MAE, custom_scorer=None, search_library=scikit-learn, search_algorithm=None, early_stopping=False, early_stopping_max_iters=10, choose_better=True, fit_kwargs=None, groups=None, return_tuner=False, verbose=True, tuner_verbose=True, return_train_score=False, kwargs={}, self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>)
+2023-05-19 22:01:55,702:INFO:Checking exceptions
+2023-05-19 22:01:55,702:INFO:Copying training dataset
+2023-05-19 22:01:55,718:INFO:Checking base model
+2023-05-19 22:01:55,718:INFO:Base model : Extreme Gradient Boosting
+2023-05-19 22:01:55,718:INFO:Declaring metric variables
+2023-05-19 22:01:55,718:INFO:Defining Hyperparameters
+2023-05-19 22:01:55,871:INFO:Tuning with n_jobs=-1
+2023-05-19 22:01:55,871:INFO:Initializing RandomizedSearchCV
+2023-05-19 22:02:03,616:INFO:best_params: {'actual_estimator__subsample': 0.2, 'actual_estimator__scale_pos_weight': 37.7, 'actual_estimator__reg_lambda': 0.2, 'actual_estimator__reg_alpha': 0.0001, 'actual_estimator__n_estimators': 220, 'actual_estimator__min_child_weight': 4, 'actual_estimator__max_depth': 10, 'actual_estimator__learning_rate': 0.05, 'actual_estimator__colsample_bytree': 0.9}
+2023-05-19 22:02:03,616:INFO:Hyperparameter search completed
+2023-05-19 22:02:03,616:INFO:SubProcess create_model() called ==================================
+2023-05-19 22:02:03,616:INFO:Initializing create_model()
+2023-05-19 22:02:03,616:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000294B4102C50>, model_only=True, return_train_score=False, kwargs={'subsample': 0.2, 'scale_pos_weight': 37.7, 'reg_lambda': 0.2, 'reg_alpha': 0.0001, 'n_estimators': 220, 'min_child_weight': 4, 'max_depth': 10, 'learning_rate': 0.05, 'colsample_bytree': 0.9})
+2023-05-19 22:02:03,616:INFO:Checking exceptions
+2023-05-19 22:02:03,616:INFO:Importing libraries
+2023-05-19 22:02:03,616:INFO:Copying training dataset
+2023-05-19 22:02:03,631:INFO:Defining folds
+2023-05-19 22:02:03,631:INFO:Declaring metric variables
+2023-05-19 22:02:03,631:INFO:Importing untrained model
+2023-05-19 22:02:03,631:INFO:Declaring custom model
+2023-05-19 22:02:03,631:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:02:03,631:INFO:Starting cross validation
+2023-05-19 22:02:03,631:INFO:Cross validating with TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), n_jobs=-1
+2023-05-19 22:02:03,956:INFO:Calculating mean and std
+2023-05-19 22:02:03,956:INFO:Creating metrics dataframe
+2023-05-19 22:02:03,956:INFO:Finalizing model
+2023-05-19 22:02:04,099:INFO:Uploading results into container
+2023-05-19 22:02:04,099:INFO:Uploading model into container now
+2023-05-19 22:02:04,099:INFO:_master_model_container: 2
+2023-05-19 22:02:04,099:INFO:_display_container: 3
+2023-05-19 22:02:04,099:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:02:04,099:INFO:create_model() successfully completed......................................
+2023-05-19 22:02:04,249:INFO:SubProcess create_model() end ==================================
+2023-05-19 22:02:04,249:INFO:choose_better activated
+2023-05-19 22:02:04,249:INFO:SubProcess create_model() called ==================================
+2023-05-19 22:02:04,249:INFO:Initializing create_model()
+2023-05-19 22:02:04,249:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2023-05-19 22:02:04,249:INFO:Checking exceptions
+2023-05-19 22:02:04,263:INFO:Importing libraries
+2023-05-19 22:02:04,263:INFO:Copying training dataset
+2023-05-19 22:02:04,265:INFO:Defining folds
+2023-05-19 22:02:04,265:INFO:Declaring metric variables
+2023-05-19 22:02:04,265:INFO:Importing untrained model
+2023-05-19 22:02:04,265:INFO:Declaring custom model
+2023-05-19 22:02:04,265:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:02:04,265:INFO:Starting cross validation
+2023-05-19 22:02:04,265:INFO:Cross validating with TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None), n_jobs=-1
+2023-05-19 22:02:04,485:INFO:Calculating mean and std
+2023-05-19 22:02:04,485:INFO:Creating metrics dataframe
+2023-05-19 22:02:04,485:INFO:Finalizing model
+2023-05-19 22:02:04,599:INFO:Uploading results into container
+2023-05-19 22:02:04,599:INFO:Uploading model into container now
+2023-05-19 22:02:04,599:INFO:_master_model_container: 3
+2023-05-19 22:02:04,599:INFO:_display_container: 4
+2023-05-19 22:02:04,599:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:02:04,599:INFO:create_model() successfully completed......................................
+2023-05-19 22:02:04,772:INFO:SubProcess create_model() end ==================================
+2023-05-19 22:02:04,772:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...) result for MAE is 78.7038
+2023-05-19 22:02:04,772:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...) result for MAE is 69.7708
+2023-05-19 22:02:04,772:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...) is best model
+2023-05-19 22:02:04,772:INFO:choose_better completed
+2023-05-19 22:02:04,788:INFO:_master_model_container: 3
+2023-05-19 22:02:04,788:INFO:_display_container: 3
+2023-05-19 22:02:04,790:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:02:04,790:INFO:tune_model() successfully completed......................................
+2023-05-19 22:02:04,949:INFO:Initializing predict_model()
+2023-05-19 22:02:04,949:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000294B3FCDB40>)
+2023-05-19 22:02:04,949:INFO:Checking exceptions
+2023-05-19 22:02:04,949:INFO:Preloading libraries
+2023-05-19 22:02:04,949:INFO:Set up data.
+2023-05-19 22:02:04,964:INFO:Set up index.
+2023-05-19 22:02:05,199:INFO:Initializing finalize_model()
+2023-05-19 22:02:05,199:INFO:finalize_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fit_kwargs=None, groups=None, model_only=False, experiment_custom_tags=None)
+2023-05-19 22:02:05,199:INFO:Finalizing XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...)
+2023-05-19 22:02:05,199:INFO:Initializing create_model()
+2023-05-19 22:02:05,199:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.9, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.05, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=10, max_leaves=None,
+             min_child_weight=4, missing=nan, monotone_constraints=None,
+             n_estimators=220, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=123, ...), fold=None, round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=False, metrics=None, display=None, model_only=False, return_train_score=False, kwargs={})
+2023-05-19 22:02:05,199:INFO:Checking exceptions
+2023-05-19 22:02:05,199:INFO:Importing libraries
+2023-05-19 22:02:05,199:INFO:Copying training dataset
+2023-05-19 22:02:05,199:INFO:Defining folds
+2023-05-19 22:02:05,199:INFO:Declaring metric variables
+2023-05-19 22:02:05,199:INFO:Importing untrained model
+2023-05-19 22:02:05,199:INFO:Declaring custom model
+2023-05-19 22:02:05,199:INFO:Extreme Gradient Boosting Imported successfully
+2023-05-19 22:02:05,199:INFO:Cross validation set to False
+2023-05-19 22:02:05,199:INFO:Fitting Model
+2023-05-19 22:02:05,215:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2023-05-19 22:02:05,215:WARNING:D:\hackathon\GFG\env\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-19 22:02:05,293:INFO:Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerW...
+                              feature_types=None, gamma=None, gpu_id=None,
+                              grow_policy=None, importance_type=None,
+                              interaction_constraints=None, learning_rate=0.05,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=10, max_leaves=None, min_child_weight=4,
+                              missing=nan, monotone_constraints=None,
+                              n_estimators=220, n_jobs=-1,
+                              num_parallel_tree=None, predictor=None,
+                              random_state=123, ...))])
+2023-05-19 22:02:05,293:INFO:create_model() successfully completed......................................
+2023-05-19 22:02:05,465:INFO:_master_model_container: 3
+2023-05-19 22:02:05,465:INFO:_display_container: 4
+2023-05-19 22:02:05,481:INFO:Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerW...
+                              feature_types=None, gamma=None, gpu_id=None,
+                              grow_policy=None, importance_type=None,
+                              interaction_constraints=None, learning_rate=0.05,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=10, max_leaves=None, min_child_weight=4,
+                              missing=nan, monotone_constraints=None,
+                              n_estimators=220, n_jobs=-1,
+                              num_parallel_tree=None, predictor=None,
+                              random_state=123, ...))])
+2023-05-19 22:02:05,481:INFO:finalize_model() successfully completed......................................
+2023-05-19 22:02:05,634:INFO:Initializing predict_model()
+2023-05-19 22:02:05,634:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000294B0B81030>, estimator=Pipeline(memory=FastMemory(location=C:\Users\shiva\AppData\Local\Temp\joblib),
+         steps=[('target_transformation',
+                 TransformerWrapperWithInverse(transformer=TargetTransformer(estimator=PowerTransformer(standardize=False)))),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Series'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerW...
+                              feature_types=None, gamma=None, gpu_id=None,
+                              grow_policy=None, importance_type=None,
+                              interaction_constraints=None, learning_rate=0.05,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=10, max_leaves=None, min_child_weight=4,
+                              missing=nan, monotone_constraints=None,
+                              n_estimators=220, n_jobs=-1,
+                              num_parallel_tree=None, predictor=None,
+                              random_state=123, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000294B4D17F40>)
+2023-05-19 22:02:05,634:INFO:Checking exceptions
+2023-05-19 22:02:05,634:INFO:Preloading libraries
+2023-05-19 22:02:05,634:INFO:Set up data.
+2023-05-19 22:02:05,634:INFO:Set up index.
