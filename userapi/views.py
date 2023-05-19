@@ -26,7 +26,7 @@ def chatbot(request):
         "telugu": "te",
         "hindi": "hi",
     }
-    openai.api_key = "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"
+    openai.api_key = "sk-"
 
     messages = [
         {"role": "system", "content": """Your name is "AgriBot" and you are a smart chatbot assistant for our mobile application "Krishi Junction". Our app's main goal is to help integrating precision farming techniques and deliver it as an useful insight to the farmer. Main features of our app are:
